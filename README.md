@@ -1,1 +1,2 @@
-# PIPELINE
+# example on pipeline
+modules:
